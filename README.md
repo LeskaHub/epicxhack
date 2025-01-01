@@ -1,5 +1,5 @@
 # epicxhack
-# working!
+# this is a joke and is not intended for use, and your account might get banned so please do NOT use
 ## if you wanna know if it's up or not, join celery's Discord server: https://discord.gg/celery
 
 The next-gen powerful Roblox Exploit.
